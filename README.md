@@ -13,9 +13,6 @@ Experience the live system in action! The dashboard updates automatically with t
 
 **➡️ [kairos-skr.web.app](https://kairos-skr.web.app/)**
 
-<img width="1549" alt="KAIROS-flowchart" src="https://github.com/user-attachments/assets/004351ed-cd8d-448b-b679-d995ba34645a" />
-
-
 ---
 
 ## 🎯 The Problem: Beyond the Obvious
@@ -39,7 +36,8 @@ This specialization, achieved through a technique called **QLoRA**, transforms a
 
 KAIROS is a fully automated, event-driven, and serverless pipeline built on a multi-cloud architecture. The entire system is designed to be scalable, resilient, and cost-effective, running entirely within the free tiers of Google Cloud and Hugging Face.
 
-![KAIROS Architecture Diagram](https://placehold.co/900x400/1a1a1a/ffffff?text=System+Architecture+Flowchart)
+<img width="1549" alt="KAIROS-flowchart" src="https://github.com/user-attachments/assets/004351ed-cd8d-448b-b679-d995ba34645a" />
+
 *High-level view of the KAIROS data pipeline.*
 
 The pipeline works as follows:
