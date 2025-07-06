@@ -11,7 +11,7 @@ if not firebase_admin._apps:
 db = firestore.client()
 
 # Get your keys from environment variables for security
-NEWS_API_KEY = os.environ.get('NEWS_API_KEY', 'a7847d5ecc0b4e15950387e37c31d1d6')
+NEWS_API_KEY = os.environ.get('NEWS_API_KEY', 'GIVE_YOUR_API')
 ANALYSIS_AGENT_URL = os.environ.get('ANALYSIS_AGENT_URL', 'https://analysis-agent-v2-684565978901.us-east1.run.app')
 
 @functions_framework.http
